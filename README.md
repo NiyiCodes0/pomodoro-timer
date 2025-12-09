@@ -21,7 +21,7 @@ A fully functional Pomodoro Timer built with React to boost productivity using t
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://pomodoro-timer-mu-ochre.vercel.app/)
+[View Live Demo](https://pomodoro-timer-mu-ochre.vercel.app)
 
 ## 📸 Screenshots
 
