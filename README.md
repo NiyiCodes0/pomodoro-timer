@@ -21,11 +21,11 @@ A fully functional Pomodoro Timer built with React to boost productivity using t
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_VERCEL_URL_HERE)
+[View Live Demo](https://pomodoro-timer-mu-ochre.vercel.app/)
 
 ## 📸 Screenshots
 
-![Pomodoro Timer](screenshot.png)
+![Pomodoro Timer](pomodoro-screenshot.png)
 
 ## 💻 Installation
 
